@@ -19,3 +19,7 @@ variable "common_tags" {
 variable "zone_name" {
   default = "jpaws10s.online"
 }
+
+variable "app_version" {
+  
+}
